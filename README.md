@@ -7,3 +7,10 @@
 Govind-Shukla/Govind-Shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+🛠️ Tools
+Database: Snowflake, Google BigQuery, PostgreSQL, MySQL, SQL Server
+Python: NumPy, Pandas
+Business Intelligence: Tableau
+Transformation: dbt
