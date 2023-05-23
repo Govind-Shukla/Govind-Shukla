@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Govind-Shukla
+- 👋 Hi, I’m Govind-Shukla
 - 👀 I’m interested in transition into a role in data analytics. 
 - 🌱 I’m currently learning SQL, Python, and Tableau. I am also looking to eventually learn ML as well.
 - 💞️ I’m looking to collaborate on SQL and Python related projects. Looking to learn with the awesome commmunity
