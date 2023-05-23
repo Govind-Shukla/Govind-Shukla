@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-🛠️ Tools
-Database: Snowflake, Google BigQuery, PostgreSQL, MySQL, SQL Server
-Python: NumPy, Pandas
-Business Intelligence: Tableau
-Transformation: dbt
+-🛠️ Tools
+-Database: Snowflake, Google BigQuery, PostgreSQL, MySQL, SQL Server
+-Python: NumPy, Pandas
+-Business Intelligence: Tableau
+-Transformation: dbt
